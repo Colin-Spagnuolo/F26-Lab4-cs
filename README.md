@@ -2,7 +2,7 @@
 ### Submission Details
 
 In this lab, you will create 5 simple scripts (and an optional sixth script). Write the scripts in GitHub codespaces. 
-Please note that you must complete the lab during class hours and show your progress to the professor to receive the marks for the lab.
+Please note that you will work on the lab during class hours and show your progress to the professor to receive the marks for the lab. If not completed, you can continue working on lab at home and submit a PDF file containing all screenshots showing your code and output in Blackboard before the due date.
 
 ### Lab Objectives
 - To be able to write the programs using functions.
@@ -244,3 +244,4 @@ square = lambda x: x ** 2  # Usage: square(3) -> 9
     - lab4f.py
     
     
+
