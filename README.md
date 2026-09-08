@@ -206,7 +206,7 @@ Keyword parameters (or keyword arguments) are arguments passed to a function by 
 - Print the result in `main`.
 - Run your script to test it.
 
- ## lab4g.py  (Optional Activity: Adavanced Level)
+ ## lab4g.py 
 ### Using map, filter and lambda expressions.
 map() applies a function to all items in an iterable.
 
@@ -242,6 +242,7 @@ square = lambda x: x ** 2  # Usage: square(3) -> 9
     - lab4d.py
     - lab4e.py
     - lab4f.py
+    - lab4g.py
     
     
 
