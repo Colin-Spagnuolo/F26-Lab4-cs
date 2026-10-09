@@ -10,6 +10,14 @@
 # @Function definition: add definition here
 # @param: write parameters here
 # @return: write return value here
+list=[1,2,3,4,5,6]
+def even_numbers(mylist):
+    evens=[]
+    for i in mylist:
+        if i%2==0:
+            evens.append(i)
+    return evens
+print(even_numbers(list))
 
 # TO DO 2: Create the function.
 
