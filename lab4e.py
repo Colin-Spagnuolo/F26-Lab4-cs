@@ -7,3 +7,9 @@
 # Usage: ./lab4e.py
 
 # Follow the instructions from readme.md.
+def get_initials(**args):
+    initials=[]
+    for name in args:
+        initials.append(name[0])
+    return initials
+print(get_initials("Alex","Sandra","Billy"))
