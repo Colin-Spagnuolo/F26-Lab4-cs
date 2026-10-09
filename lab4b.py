@@ -1,8 +1,8 @@
 # Add comments before you do anything else.
 
 #!/usr/bin/env python3
-# Author:
-# Date:
+# Author: Colin Spagnuolo
+# Date: October 9th
 # Purpose: Create Some Complex Functions.
 # Usage: ./lab4b.py
 
